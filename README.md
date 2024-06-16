@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Bruise99
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Bruise99. My name is Aniket Singh.
+- 👀 I work as an SDET
 - 🌱 I’m currently learning automation testing leveraging tools like selenium, testng, maven, jenkins
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Bruise99/Bruise99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
